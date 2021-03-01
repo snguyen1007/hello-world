@@ -44,8 +44,6 @@ public class GitDemo {
             newNumber = newNumber * 10 + temp;
             num /= 10;
         }
-      
-        
         return newNumber;
     }
     

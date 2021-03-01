@@ -48,6 +48,6 @@ public class GitDemo {
             newNumber = newNumber * i;
         }
         return newNumber;
-    }
-    
+    }  
 }
+    
